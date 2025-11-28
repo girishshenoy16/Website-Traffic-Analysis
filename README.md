@@ -20,5 +20,3 @@ CSV files located in `data/raw/` and cleaned data in `data/cleaned/`.
 For detailed EDA and methodology, see `Analysis.ipynb`.
 
 ---
-
-© 2025 Girish Shenoy
